@@ -1,0 +1,1 @@
+This lab focuses on designing passive linear circuits to achieve maximum power transfer from a 50Ω source to a 180Ω load at 5-10 MHz. In the software part, students simulate and verify maximum power transfer using theoretical calculations. The hardware part involves building the circuits, measuring power dissipation, and comparing results with simulations to validate the design.
