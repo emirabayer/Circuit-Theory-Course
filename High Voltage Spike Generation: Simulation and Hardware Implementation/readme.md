@@ -1,0 +1,1 @@
+This lab focuses on designing a passive linear circuit to generate high voltage spikes (20V ≤ Vp ≤ 25V) from a 10V peak-to-peak square wave. Using SPICE, students simulate the circuit to verify spike generation with a FWHM < 100ns. In the hardware part, the circuit is implemented, and measurements of spike amplitude and duration are compared with simulation results.
