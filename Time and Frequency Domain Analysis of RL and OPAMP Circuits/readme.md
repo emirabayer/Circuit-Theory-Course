@@ -1,0 +1,1 @@
+This lab explores both time-domain and frequency-domain analyses of RL and OPAMP circuits. Using LTSpice, students simulate circuits, generate Bode plots, and study OPAMP behavior. The hardware part involves building the circuits, measuring outputs, and comparing results with simulations to validate time and frequency domain concepts.
